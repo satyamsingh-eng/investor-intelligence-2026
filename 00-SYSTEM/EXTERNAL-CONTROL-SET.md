@@ -1,7 +1,7 @@
 # External control set — India/global actionable routes
 
 This is **not** a third university track. It is a realism control set: funds and
-programs that may be more actionable for C3A Labs/SARVAX than a university-affinity
+programs that may be more actionable for C3A Labs/Fin9 than a university-affinity
 route. It is kept separate so the Cornell and MIT reports remain decision-maker
 clean and comparable.
 
@@ -13,7 +13,7 @@ any guessed email or social identity from this file.
 
 ## Priority control set
 
-| Rank | Firm / program | Named route | Current proof | Why SARVAX could fit | Access | Confidence |
+| Rank | Firm / program | Named route | Current proof | Why Fin9 could fit | Access | Confidence |
 |---|---|---|---|---|---|---|
 | 1 | **Eximius Ventures** | Pearl Agarwal / official Pitch Us | India pre-seed fund; thesis explicitly includes FinAI, wealth management, Enterprise AI and vertical AI. Alltius is an official pre-seed portfolio page: an agentic AI platform for insurance, banking and financial services. | Strongest India thesis match for wealth/financial-services workflow automation. | `pitches@eximiusvc.com`; `Pitch Us` | High |
 | 2 | **Accel Atoms AI** | Prayank Swaroop, Anand Daniel, Anagh Prasad, Sarthak Singh | Official 2025–2026 pages: rolling applications for Indian/Indian-origin AI founders anywhere; enterprise workflow agents explicitly named; up to $1M and $5M+ perks. | Direct match to a shipped B2B AI-agent product built by an Indian team. | Rolling application | High |
@@ -24,12 +24,24 @@ any guessed email or social identity from this file.
 | 7 | **First Cheque** | Official team; investment owner to confirm | Official site: ideation/pre-product/MVP, 120+ companies, up to $500K, first call to term sheet in 10 days, SaaS/FinTech/DeepTech categories. | Earliest-stage India route with clear process and low access friction. | `Talk to us`; individual authority not published | High on firm / medium on person |
 | 8 | **Afore Capital** | Gaurav Jain / Anamitra Banerji | Official site: $500M pre-seed fund, $500K–$2M+ in pre-traction/pre-everything companies; direct founder programs. | Useful if C3A has a US/global customer or incorporation plan; India-only access is unconfirmed. | FIR / founder program | High on stage / medium on India fit |
 
+## Named route authority
+
+The external set is intentionally more conservative about individuals. A named person can be a route into a firm or program without being the person who controls the whole vehicle.
+
+| Named route | Current firm / program | Authority class | Fin9 use |
+|---|---|---|---|
+| Pearl Agarwal | Eximius Ventures | Founder / Managing Partner route | Priority India thesis match; use official Pitch Us first |
+| Prayank Swaroop, Anand Daniel, Anagh Prasad, Sarthak Singh | Accel Atoms AI | Named partner/program team; individual cheque authority not assigned here | Priority program route; apply through the published AI route |
+| Jenny Fielding, Scott Hartley | Everywhere Ventures | Co-Founders / General Partners | Priority global pre-seed route |
+| Gowri Shankar | Antler India | India investment-team route; current individual authority to confirm | Conditional India cohort route |
+| Current investment team | Kalaari Capital | Firm-level application; individual owner not published in this set | Priority India early-stage route |
+
 ## What this changes
 
 1. **India routes should sit ahead of celebrity US profiles.** Eximius,
    Accel Atoms AI, Everywhere, Antler India and Kalaari have clearer founder
    intake or India evidence than a generic large-fund partner page.
-2. **SARVAX's strongest proof wedge is not generic “AI.”** Lead with
+2. **Fin9's strongest proof wedge is not generic “AI.”** Lead with
    wealth/financial-services workflows, product shipped, early user evidence,
    and the execution loop the system automates.
 3. **Do not treat accelerator/program terms as universal VC terms.** Accel
@@ -44,7 +56,7 @@ any guessed email or social identity from this file.
 - Forum Ventures, 2048 Ventures, Better Tomorrow Ventures, Precursor Ventures,
   Hustle Fund, Moxxie Ventures, First Cheque and other global micro-funds have
   strong first-party stage/thesis signals in the delegated research. They remain
-  a second-pass universe until geography, current partner ownership, and a SARVAX
+  a second-pass universe until geography, current partner ownership, and a Fin9
   route are verified in a bounded review.
 - Reddit fundraising threads, X/Twitter posts, and demo-day attendance are
   discovery signals only. They do not prove investment authority, current

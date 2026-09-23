@@ -231,6 +231,14 @@ tbody td a{border-bottom:1px solid var(--line)}
   tbody td:first-child::before{margin-top:0}
 }
 
+/* ---------- brand and authority proof ---------- */
+.rebrand-note{margin-top:28px;padding:14px 18px;border:1px solid var(--line);border-left:3px solid var(--dark);border-radius:var(--radius-sub);background:var(--paper);color:var(--muted);font-size:13.5px}
+.rebrand-note b{color:var(--ink);font-weight:700}
+.authority-map{margin-top:28px}
+.authority-map table{font-size:13px}
+.authority-map td:first-child{white-space:nowrap;font-weight:650}
+.authority-map td:nth-child(2){font-weight:650}
+.authority-note{margin-top:14px;color:var(--muted);font-size:13px}
 /* ---------- print ---------- */
 @media print{
   body{background:#fff !important; color:#000 !important}

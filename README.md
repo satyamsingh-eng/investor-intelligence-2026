@@ -1,6 +1,6 @@
 # C3A LABS — INVESTOR INTELLIGENCE 2026
 
-Dual-track realistic investor targeting system for C3A Labs / SARVAX.
+Dual-track realistic investor targeting system for C3A Labs / Fin9, formerly SARVAX.
 Replaces the celebrity-heavy targeting model with a realism-first model:
 current authority, demonstrated pre-seed/seed deployment, AI/B2B/fintech
 thesis, small-team tolerance, and a real access path.
@@ -10,6 +10,17 @@ thesis, small-team tolerance, and a real access path.
 Find decision-makers who actively invest in product-first, small-team AI
 companies at pre-seed/seed, and who are reachable by C3A Labs — not
 prestige profiles with no plausible route to a check.
+
+## Current brand
+
+**SARVAX has been rebranded as Fin9.** Historical SARVAX references in source
+material refer to the same company; Fin9 is the current name for investor fit,
+fundraising, and outreach decisions.
+
+The rendered master report now exposes each tracked person's current firm,
+current role, authority class, and Fin9 decision. Authority is separated into
+firm controller, partner-level investor, principal/investment professional,
+network/program route, or unresolved firm-level authority.
 
 ## Structure
 
