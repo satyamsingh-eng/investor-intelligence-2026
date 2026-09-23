@@ -1,0 +1,18 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Credentials and environment files
+.env
+.env.*
+!.env.example
+
+# Caches, logs, and QA artifacts
+.cache/
+__pycache__/
+*.log
+qa-screens/
+*.png
+*.jpg
+*.jpeg
